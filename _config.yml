@@ -4,3 +4,5 @@ plugins:
 title: Curt Marker
 description: My personal site for sharing my thoughts and ideas
 show_downloads: false
+github:
+  is_project_page: false
