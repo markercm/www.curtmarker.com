@@ -24,13 +24,12 @@ description: My personal site for sharing my thoughts and ideas
 baseurl: ""
 url: "https://www.curtmarker.com"
 
-minima:
-  skin: solarized-dark
-  social_links:
-    instagram: curtmarker
-    twitter: curtmarker
-    github: markercm
-    linkedin: curtmarker
+# social links
+twitter_username: curtmarker
+github_username:  markercm
+instagram_username: curtmarker
+linkedin_username: curtmarker
+
 
 # Build settings
 theme: minima
