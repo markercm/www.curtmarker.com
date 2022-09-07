@@ -23,14 +23,21 @@ title: Curt Marker
 description: My personal site for sharing my thoughts and ideas
 baseurl: ""
 url: "https://www.curtmarker.com"
-twitter_username: curtmarker
-github_username:  markercm
+
+minima:
+  skin: solarized-dark
+  social_links:
+    instagram: curtmarker
+    twitter: curtmarker
+    github: markercm
+    linkedin: curtmarker
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
